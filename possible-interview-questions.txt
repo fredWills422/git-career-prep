@@ -1,0 +1,7 @@
+Possible interview questions
+1. What does the acronym sql stand for in development? structured query language
+2. What does the acronym scm stand for in development? source control managment
+3. What does it mean for your git repository and your github repo to be in conflict, 
+and how do you fix it? It means that there was a change made in one of the two repositories.
+If the new data is in github it can be fixed but doing a pull in git. If the changes were made
+in git it can be fixed by adding, commiting, and pushing the new data to github.
